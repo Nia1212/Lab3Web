@@ -233,3 +233,12 @@ Menambahkan Css internal pada from.
         }
         </style>
 ```
+
+# Pertanyaan dan tugas
+## Buatlah form yang menampilkan ***dropdown*** menu dan ***listbox*** dengan multiple selection.
+## Dropdown
+![Gambar](img/ss9.png)
+
+## Listbox dengan multiple
+![Gambar](img/ss10.png)
+
